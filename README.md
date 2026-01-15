@@ -1,16 +1,13 @@
-## Hi there 👋
+👋 Olá, eu sou o Uarlen (Nelrau)
 
-<!--
-**Nelrau/Nelrau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor focado em Python, com interesse em automação, análise de dados e criação de sistemas simples e funcionais.
 
-Here are some ideas to get you started:
+Trabalho principalmente com:
+- Python (Tkinter, Pandas)
+- Automação de tarefas
+- Organização e tratamento de dados
+- Relatórios e lógica de negócio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Aqui você vai encontrar projetos práticos, estudos aplicados e códigos em constante evolução, sempre buscando clareza, organização e funcionamento real.
+
+📌 Aberto a projetos e colaborações.
